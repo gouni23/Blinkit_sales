@@ -63,10 +63,10 @@ Increase revenue by 20% over the next fiscal year.
 
 # 5. Key Findings and Insights
 
-3. Outlet Establishment Insights by Tier
+    Outlet Establishment Insights by Tier
 
 
-* 1. Market Analysis by Tier
+*  Market Analysis by Tier
 
     Tier 1: High demand for premium and health-conscious products.
     
@@ -74,7 +74,7 @@ Increase revenue by 20% over the next fiscal year.
     
     Tier 3: Price sensitivity and preference for local, familiar brands.
 
-* 2. Product Preferences by Fat Content
+* Product Preferences by Fat Content
 
     Low-fat Products: High demand in Tier 1 cities, especially for dairy and snacks.
     
@@ -83,17 +83,17 @@ Increase revenue by 20% over the next fiscal year.
     High-fat Products: Niche demand in all tiers, often associated with indulgence or traditional cuisine.
 
 
-* 4. Sales and Revenue Growth
+* Sales and Revenue Growth
 
 Popular product categories vary by tier: Snacks, dairy, and fresh produce are common in all tiers, but premium snacks dominate Tier 1 sales.
 
-* 5. Customer Experience
+* Customer Experience
 
     Complaints in Tier 2 and Tier 3 cities primarily relate to delivery delays and product availability.
     
     High loyalty in Tier 1 cities among customers who receive consistent service quality.
 
-* 6. Technology Impact
+* Technology Impact
 
 The existing app lacks tier-specific product recommendations.
 
