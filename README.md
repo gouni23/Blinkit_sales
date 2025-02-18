@@ -7,7 +7,7 @@ This project report highlights the key findings, insights, and recommendations f
 
 * Purpose of the Project
 
-The project was initiated to identify opportunities for improving Blinkit's overall business performance by optimizing operations, enhancing customer experience, and expanding sales channels across various geographic tiers and based on customer preferences for fat content.
+The project was initiated to identify opportunities for improving Blinkit's overall business performance by optimizing operations, enhancing customer experience, and expanding sales channels across various geographic tiers based on customer preferences for fat content.
 
 * Stakeholder Expectations
 
@@ -63,7 +63,7 @@ Increase revenue by 20% over the next fiscal year.
 
 # 5. Key Findings and Insights
 
-    Outlet Establishment Insights by Tier
+* Outlet Establishment Insights by Tier
 
 
 *  Market Analysis by Tier
@@ -129,7 +129,6 @@ Manual inventory management in Tier 2 and Tier 3 cities leads to higher stock-ou
 
 # 7. Financial Analysis
 
-Revenue Projections
 
 Estimated 25% revenue growth in Tier 1 cities after promoting low-fat product lines.
 
